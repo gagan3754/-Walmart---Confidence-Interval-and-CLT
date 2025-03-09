@@ -7,9 +7,9 @@ The Management team at Walmart Inc. wants to analyze the customer purchase behav
 
 1. Defining Problem Statement and Analyzing basic metrics
 
-  a. Observations on shape of data, data types of all the attributes, conversion of categorical attributes to 'category' (If required), statistical summary
-  b. Non-Graphical Analysis: Value counts and unique attributes ​
-  c. Visual Analysis - Univariate & Bivariate
+  1a. Observations on shape of data, data types of all the attributes, conversion of categorical attributes to 'category' (If required), statistical summary
+  1b. Non-Graphical Analysis: Value counts and unique attributes ​
+  1c. Visual Analysis - Univariate & Bivariate
 
     For continuous variable(s): Distplot, countplot, histogram for univariate analysis
     For categorical variable(s): Boxplot
