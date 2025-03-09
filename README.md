@@ -15,7 +15,6 @@ For continuous variable(s): Distplot, countplot, histogram for univariate analys
 For categorical variable(s): Boxplot
 
 For correlation: Heatmaps, Pairplots
-
 2. Missing Value & Outlier Detection
 
 3. Business Insights based on Non- Graphical and Visual Analysis
