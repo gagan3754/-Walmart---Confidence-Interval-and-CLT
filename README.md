@@ -14,8 +14,7 @@ The Management team at Walmart Inc. wants to analyze the customer purchase behav
     For continuous variable(s): Distplot, countplot, histogram for univariate analysis
     For categorical variable(s): Boxplot
     For correlation: Heatmaps, Pairplots
-
-
+    
 2. Missing Value & Outlier Detection
 
 3. Business Insights based on Non- Graphical and Visual Analysis
